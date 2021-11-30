@@ -10,11 +10,7 @@ A portfolio website t
 
 ## Github repo
 
-This is the [link](https://github.com/Davinder1642/developer-portfolio) to the Github repo of the project
-
-## Sample Website
-
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+This is the [link](https://github.com/Davinder1642/developer-portfolio) to the Github repo of the project.
 
 ## Tech Stack
 
